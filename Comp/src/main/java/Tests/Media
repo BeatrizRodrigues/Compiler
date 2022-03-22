@@ -1,0 +1,8 @@
+main{
+    int x, y, z, media;
+    x = 8;
+    y = 7;
+    z = 10;
+    media = (x + y + z)/3;
+    print(media);
+}
